@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jonathan Su's Portfolio
 
 You can use the [editor on GitHub](https://github.com/9661328/computerprogramming2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
